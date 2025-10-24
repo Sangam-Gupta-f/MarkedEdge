@@ -6,7 +6,7 @@ export default function Header() {
       {/* Header Container */}
       <div className="w-full max-w-6xl bg-white rounded-2xl shadow-2xl px-8 py-6 flex items-center justify-between">
         {/* Logo */}
-        <div className="flex items-center gap-2 flex-shrink-0">
+        <div className="flex items-center gap-2 shrink-0">
           <div className="flex items-end gap-1">
             <div className="w-2 h-6 bg-blue-500 rounded-sm"></div>
             <div className="w-2 h-4 bg-blue-500 rounded-sm"></div>
@@ -33,7 +33,7 @@ export default function Header() {
             Reviews
           </a>
           <a href="#faq" className="text-slate-700 hover:text-slate-900 font-medium transition-colors">
-            FAQ's
+            FAQs
           </a>
         </nav>
 

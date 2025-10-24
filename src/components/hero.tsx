@@ -5,9 +5,9 @@ export default function Hero() {
       <div className="max-w-4xl w-full text-center space-y-8">
         {/* Headline */}
         <div className="space-y-4">
-          <h1 className="text-5xl md:text-6xl font-bold text-white leading-tight">Optimize Your Ads For</h1>
+          <h1 className="text-5xl md:text-6xl font-bold text-white leading-tight">Stop Chasing Reach.</h1>
           <h2 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-            Double Profit.
+             Start Closing Revenue!
           </h2>
         </div>
 
